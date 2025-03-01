@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.sub{
+    width: 350px;
+    height: 500px;
+    border: 2px solid black;
+}
+.main-2{
+
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.one{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(255, 0, 221);
+    background-color: rgb(255, 0, 221);
+}
+.two{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(5, 38, 228);
+    background-color: rgb(5, 38, 228);
+
+}
+.three{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(247, 1, 1);
+    background-color: rgb(247, 1, 1);
+
+}
