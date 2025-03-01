@@ -5,15 +5,15 @@ var three = document.getElementById("three")
 
 one.addEventListener('mouseenter',function(){
     sub.style.backgroundColor="rgb(255, 0, 221)";
-    document.body.style.backgroundColor="rgb(5, 38, 228)"
+    document.body.style.backgroundColor="rgb(243, 243, 243)"
 })
 two.addEventListener('mouseenter',function(){
     sub.style.backgroundColor="rgb(5, 38, 228)";
-    document.body.style.backgroundColor="rgb(247, 1, 1)"
+    document.body.style.backgroundColor="rgb(255, 255, 255)"
 })
 three.addEventListener('mouseenter',function(){
     sub.style.backgroundColor="rgb(247, 1, 1)";
-    document.body.style.backgroundColor="rgb(255, 0, 221)"
+    document.body.style.backgroundColor="rgb(255, 255, 255)"
 
     
 })
